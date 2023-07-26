@@ -1,0 +1,80 @@
+CRITICAL - 2023-06-26 03:40:11 --> Invalid file: "faras_32602100099.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('faras_32602100099.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('faras_32602100099', [], true)
+ 3 APPPATH\Controllers\LayoutingController.php(9): view('faras_32602100099')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\LayoutingController->index()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LayoutingController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\praktikum-web\\public\\index.php')
+CRITICAL - 2023-06-26 03:41:15 --> Invalid file: "faras_32602100099.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('faras_32602100099.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('faras_32602100099', [], true)
+ 3 APPPATH\Controllers\LayoutingController.php(9): view('faras_32602100099')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\LayoutingController->index()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LayoutingController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\praktikum-web\\public\\index.php')
+CRITICAL - 2023-06-26 03:41:21 --> Invalid file: "faras_32602100099.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('faras_32602100099.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('faras_32602100099', [], true)
+ 3 APPPATH\Controllers\LayoutingController.php(9): view('faras_32602100099')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\LayoutingController->index()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LayoutingController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\praktikum-web\\public\\index.php')
+CRITICAL - 2023-06-26 03:41:50 --> Invalid file: "faras_32602100099.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('faras_32602100099.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('faras_32602100099', [], true)
+ 3 APPPATH\Controllers\LayoutingController.php(9): view('faras_32602100099')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\LayoutingController->index()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LayoutingController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\praktikum-web\\public\\index.php')
+CRITICAL - 2023-06-26 03:42:44 --> Invalid file: "faras_32602100099.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('faras_32602100099.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('faras_32602100099', [], true)
+ 3 APPPATH\Controllers\LayoutingController.php(9): view('faras_32602100099')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\LayoutingController->index()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LayoutingController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\praktikum-web\\public\\index.php')
+CRITICAL - 2023-06-26 03:44:09 --> Invalid file: "faras_32602100099.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('faras_32602100099.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('faras_32602100099', [], true)
+ 3 APPPATH\Controllers\LayoutingController.php(9): view('faras_32602100099')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\LayoutingController->index()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LayoutingController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\praktikum-web\\public\\index.php')
+CRITICAL - 2023-06-26 04:30:27 --> Invalid file: "32602100099_faras.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('32602100099_faras.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('32602100099_faras', [], true)
+ 3 APPPATH\Controllers\LayoutingController.php(9): view('32602100099_faras')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\LayoutingController->index()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LayoutingController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\praktikum-web\\public\\index.php')
+CRITICAL - 2023-06-26 04:31:07 --> Invalid file: "32602100099_faras.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('32602100099_faras.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('32602100099_faras', [], true)
+ 3 APPPATH\Controllers\LayoutingController.php(9): view('32602100099_faras')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\LayoutingController->index()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LayoutingController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\praktikum-web\\public\\index.php')

@@ -1,0 +1,39 @@
+CRITICAL - 2023-07-26 05:45:54 --> Too few arguments to function App\Controllers\Crud::hapus(), 0 passed in C:\xampp\htdocs\praktikum-web\system\CodeIgniter.php on line 934 and exactly 1 expected
+in APPPATH\Controllers\Crud.php on line 91.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Crud->hapus()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\praktikum-web\\public\\index.php')
+CRITICAL - 2023-07-26 05:48:01 --> Undefined array key "nomor_handphone"
+in APPPATH\Controllers\Crud.php on line 77.
+ 1 APPPATH\Controllers\Crud.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "nomor_handphone"', 'C:\\xampp\\htdocs\\praktikum-web\\app\\Controllers\\Crud.php', 77)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Crud->editan()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\praktikum-web\\public\\index.php')
+CRITICAL - 2023-07-26 05:48:17 --> Undefined array key "nomor_handphone"
+in APPPATH\Controllers\Crud.php on line 77.
+ 1 APPPATH\Controllers\Crud.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "nomor_handphone"', 'C:\\xampp\\htdocs\\praktikum-web\\app\\Controllers\\Crud.php', 77)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Crud->editan()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\praktikum-web\\public\\index.php')
+CRITICAL - 2023-07-26 05:48:56 --> Undefined array key "nomor_handphone"
+in APPPATH\Controllers\Crud.php on line 77.
+ 1 APPPATH\Controllers\Crud.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "nomor_handphone"', 'C:\\xampp\\htdocs\\praktikum-web\\app\\Controllers\\Crud.php', 77)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Crud->editan()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\praktikum-web\\public\\index.php')
+CRITICAL - 2023-07-26 05:49:27 --> Undefined array key "nomor_handphone"
+in APPPATH\Controllers\Crud.php on line 77.
+ 1 APPPATH\Controllers\Crud.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "nomor_handphone"', 'C:\\xampp\\htdocs\\praktikum-web\\app\\Controllers\\Crud.php', 77)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Crud->editan()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\praktikum-web\\public\\index.php')

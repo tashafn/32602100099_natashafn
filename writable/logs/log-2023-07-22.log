@@ -1,0 +1,12 @@
+CRITICAL - 2023-07-22 18:04:48 --> Trying to access array offset on value of type null
+in APPPATH\Views\crud\edit.php on line 13.
+ 1 APPPATH\Views\crud\edit.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\praktikum-web\\app\\Views\\crud\\edit.php', 13)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\praktikum-web\\app\\Views\\crud\\edit.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('crud/edit', [], true)
+ 5 APPPATH\Controllers\Crud.php(60): view('crud/edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Crud->edit('an')
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\praktikum-web\\public\\index.php')

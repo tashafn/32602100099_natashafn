@@ -1,0 +1,147 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+}
+
+.banner,
+.navbar{
+    padding: 10px 50px;
+    background-color: #815800b4;
+    text-align: center;
+}
+
+.navbar.icon{
+    flex-grow: 1;
+}
+
+.navbar-page{
+  font-weight: bold;
+    flex-grow: 2;
+}
+
+.navbar-sosmed{
+  font-weight: bold;
+    flex-grow: 1;
+}
+
+.navbar-page li,
+.navbar-sosmed li{
+    display: inline;
+}
+
+.navbar-page ul{
+    justify-content: center;
+    text-align: center;
+    display: flex;
+}
+
+.navbar-page li{
+    margin: 0pc 20px;
+}
+
+.navbar-page a{
+    text-decoration: none;
+    color: black;
+}
+
+.fa-brands{
+    margin-right: 5px;
+}
+
+.banner{
+    line-height: 750%;
+    background-image: url(https://i.pinimg.com/564x/c3/2e/c1/c32ec166927e3a0390579c90405bed03.jpg);
+    width: 100%;
+}
+
+.name{
+    letter-spacing: 1px;
+    font-size: 60px;
+    font-weight: 1000;
+    text-shadow: -3px -1px 0 black, 3px -1px 0 black, -3px 1px 0 black, 3px 1px 0 black;
+    color: rgb(255, 255, 255)
+} 
+
+.description{
+    opacity: 0.2;
+    font-size: 15px;
+    line-height: 150%;
+    text-shadow: -1px -1px 0 white, 1px -1px 0 white, -1px 1px 0 white, 1px 1px 0 white;
+    font-weight: bold;
+    color: black;
+  
+}
+
+
+/*New style css/
+.about{
+    background-color: #130e0b;
+    color:  #000000;
+    padding: 70px;
+}
+
+.banner {
+    background-color: #3b2303;
+    text-align: center;
+    padding: 50px;
+  }
+  
+  .banner .name {
+    font-size: 24px;
+    font-weight: bold;
+    color: #161515;
+  }
+  
+  .banner .description {
+    font-size: 16px;
+    color: #121111;
+  }
+
+  .about {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+    padding: 20px;
+    background-color: #bdbdbd;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .about h1 {
+    color: #333;
+    margin-bottom: 10px;
+  }
+  
+  .about p {
+    color: #666;
+  }
+  
+  .about-experience-list table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+  }
+  
+  .about-experience-list th,
+  .about-experience-list td {
+    padding: 10px;
+    border: 1px solid #333;
+  }
+  
+  .about-experience-list th {
+    background-color: #f2f2f2;
+    text-align: center;
+  }
+  
+  .about-experience-list td {
+    text-align: left;
+  }
